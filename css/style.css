@@ -202,13 +202,13 @@ img {
 	line-height: 12px;
 	padding: 6px 0 5px;
 }
-/** adbox **/
+/** cdbox **/
 #contents #adbox {
 	background: url(../images/bg-adbox-bottom.png) no-repeat left bottom;
 	padding: 0 0 19px;
 	position: relative;
 }
-#adbox > div {
+#cdbox > div {
 	background-color: #f0f0f0;
 	height: 390px;
 	-webkit-border-bottom-right-radius: 1px;
@@ -219,7 +219,7 @@ img {
 	border-bottom-left-radius: 1px;
 	padding-right: 20px;
 }
-#adbox > div:after {
+#cdbox > div:after {
 	clear:both;
 	content:"";
 	display:block;
@@ -227,13 +227,13 @@ img {
 	line-height:0;
 	visibility:hidden;
 }
-#adbox h1 {
+#cdbox h1 {
 	padding-top: 18px;
 }
-#adbox h4 {
+#cdbox h4 {
 	font-size: 14px;
 }
-#adbox img {
+#cdbox img {
 	float: left;
 	margin-right: 20px;
 }
